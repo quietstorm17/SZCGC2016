@@ -9,7 +9,7 @@
   - 问题:
 - 阅读 “提问的智慧” 和 “如何更好的使用 Google”
   - 要求: 完成阅读，理解互助式学习和自学的方法。(4/5)
-  - 完成情况:
+  - 完成情况: xin
   - 问题:
 - 学习 Markdown 语法，同时搭建一个静态博客
   - 要求: 必须安装 Atom，这是代码编辑器（5/5）。静态博客可选（3/5）
@@ -17,7 +17,7 @@
   - 问题:
 - 自行学习安装 Ruby, Rails, Git
   - 要求: 安装好 [Vagrant](https://gorails.com/guides/using-vagrant-for-rails-development), [Ruby on Rails](https://gorails.com/setup/ubuntu/14.04)。 (5/5)
-  - 完成情况:
+  - 完成情况:new
   - 问题:
 
 
@@ -25,7 +25,7 @@
 
 - 学习 Command Line:
   - 要求：完成在线学习 [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) 和微课 [Conquering The Command Line](https://wap.umu.cn/model/groupShare?groupId=118501&sKey=f8cb459750c46e93a241a8995c84f0de&state=1470184326&from=timeline&isappinstalled=0) 掌握基本命令（5/5)
-  - 完成情况: 看完
+  - 完成情况: new
   - 问题:
 - 学习 git 和 Github
   - 要求: 完成[tryGit](https://try.github.io/levels/1/challenges/1) 和 [learn git](https://www.codecademy.com/learn/learn-git) (5/5)
