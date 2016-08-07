@@ -97,5 +97,3 @@ traverse(ARGV[0])
 
 - 参考 answers/week_one/transverse_2.rb 文件，试试重写只输出 md 文件的逻辑
 
----
-add line
